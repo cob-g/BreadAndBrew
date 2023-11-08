@@ -82,7 +82,7 @@
                 <div class="bg-transparent text-center transparent-bg">
 
                     <!-- last child -->
-             <p>All rights reserved © by JMC-2023</p>
+             <p>All rights reserved © by JMC-2023 123</p>
             </div>
             </div>
             </div>
