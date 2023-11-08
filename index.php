@@ -70,8 +70,8 @@
                 </ul>
             </nav>
 
-            <h1>JJJJJJJJJJJJ</h1>
-            <h1>21312312312</h1>
+            <p>HAHAHAHA</p>
+
 
             <!-- third child -->
             <!-- <div class="bg-transparent text-white"> 
